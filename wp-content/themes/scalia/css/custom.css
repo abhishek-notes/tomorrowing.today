@@ -2517,3 +2517,31 @@ body.home .slideshow-preloader {
 	85% { opacity: 0.2; }
 	100% { opacity: 1;}
 }
+
+body.page-id-1939 .quickfinder-item-image .quickfinder-img-size-small {
+	background-color: #f1f5f8;
+	color: #6fa7d6;
+	font-family: 'scalia-user-icons';
+	font-size: 40px;
+	line-height: 84px;
+	position: relative;
+	text-align: center;
+}
+
+body.page-id-1939 .quickfinder-item-image .quickfinder-img-size-small:before {
+	display: block;
+	position: relative;
+	z-index: 2;
+}
+
+body.page-id-1939 #post-1941 .quickfinder-img-size-small:before {
+	content: '\e828';
+}
+
+body.page-id-1939 #post-1946 .quickfinder-img-size-small:before {
+	content: '\e829';
+}
+
+body.page-id-1939 #post-1947 .quickfinder-img-size-small:before {
+	content: '\e822';
+}
